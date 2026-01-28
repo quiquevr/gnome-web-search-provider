@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Google Search Provider
+Comment=Search Google from GNOME Shell
+Exec=/usr/local/bin/google-search-provider.py 
+Icon=google-chrome
+Terminal=false
+Type=Application
+StartupNotify=true
+Name=Google Search Provider
+Comment=Search Google from GNOME Shell
+Categories=GNOME;GTK;System;Development;Utility
+DBusActivatable=true
