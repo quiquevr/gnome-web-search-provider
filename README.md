@@ -94,3 +94,5 @@ You will now see a Google Search entry in the Activities Overview when you press
 ## Reporting Issues
 
 Standard [issue tracker](https://github.com/quiquevr/gnome-google-search-provider/issues).
+
+and/or dedicated reeddit community https://www.reddit.com/r/gnome-web-search-provider/
